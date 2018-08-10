@@ -1,1 +1,1 @@
-# varadal.github.io
+# Varadal
