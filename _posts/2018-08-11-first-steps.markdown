@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2018-08-10 00:11:31 -0400
+title:  "First steps"
+date:   2018-08-11 00:12:34 -0400
 categories: learning to use jekyll
 ---
 
