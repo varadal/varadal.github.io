@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Welcome to Jekyll!"
+date:   2018-08-10 00:11:31 -0400
+categories: learning to use jekyll
+---
+
+I need to learn to add things using the `_includes` and `_layouts` folders. 
+
+WIP
