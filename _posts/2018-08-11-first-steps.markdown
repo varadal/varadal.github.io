@@ -7,4 +7,8 @@ categories: learning to use jekyll
 
 I need to learn to add things using the `_includes` and `_layouts` folders. 
 
-WIP
+
+# Project Idea: 
+
+## CircleJerk
+This is a pretty dumb idea, the whole point of it is to mark comment chains on reddit as circle jerking. If enough comment chains are jerking in the same direction, probably weighted with their \# of upvotes, the whole post is marked as a circle jerk. I imagine this could be done using nlp sentiment analysis, but that is usually better for longer pieces of writing; I imagine most reddit comments are ~40 words on more text/discussion based subreddits. For some subreddits I could see this failing outright, for example r/circlejerk would probably produce a value 
