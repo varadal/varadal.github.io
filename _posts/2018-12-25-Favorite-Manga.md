@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "All-Rounder Meguru"
-date:   2018-08-19 00:11:31 -0400
+date:   2018-12-25 00:11:31 -0400
 categories: Review
 ---
 
@@ -10,3 +10,5 @@ You may not know this about me, but I'm kind of a weeb. Its pretty shameful actu
 # The Author
 
 To understand ARM you have to understand the author, Hiroki Endo, and his first work "Eden: Its an Endless World." To learn more about Endo one would turn to his Wikipedia page, but all they would find are a list of his works, when he was born (Nov 3, 1970), and his alma mater (Musashino Art University). To really understand his personality the best places to look (at least for someone who only reads english) are his twitter feeds, short stories, and "exerpts" from ends of chapters.
+
+But since this is a review/recomendation of ARM rather than a biography of Endo, we'll now shift to ARM
