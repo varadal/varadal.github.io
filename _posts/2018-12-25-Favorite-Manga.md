@@ -9,6 +9,10 @@ You may not know this about me, but I'm kind of a weeb. Its pretty shameful actu
 
 # The Author
 
-To understand ARM you have to understand the author, Hiroki Endo, and his first work "Eden: Its an Endless World." To learn more about Endo one would turn to his Wikipedia page, but all they would find are a list of his works, when he was born (Nov 3, 1970), and his alma mater (Musashino Art University). To really understand his personality the best places to look (at least for someone who only reads english) are his twitter feeds, short stories, and "exerpts" from ends of chapters.
+To understand ARM you have to understand the author, Hiroki Endo, and his first work "Eden: Its an Endless World." To learn more about Endo one would turn to his Wikipedia page, but all they would find are a list of his works, when he was born (Nov 3, 1970), and his alma mater (Musashino Art University). To really understand his personality the best places to look (at least for someone who only reads english) are his twitter feeds, short stories, and blurbs from the ends of paperback volumes.
 
-But since this is a review/recomendation of ARM rather than a biography of Endo, we'll now shift to ARM
+But since this is a review/recomendation of ARM rather than a biography of Endo, we'll now shift to ARM.
+
+# Story
+
+The story is about Meguru, a high-schooler in an MMA gym. We follow Meguru in his amatuer fightning career. We also meet the other members of the gym, from other high schoolers such as Yudai and Maki, to adults such as Maria and ^^. Most importantly we meet Takeshi, a childhood friend of Meguru. All of these charcters tryt 
