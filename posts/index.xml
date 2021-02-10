@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Leedle</title>
+    <link>https://varada.github.io/posts/</link>
+    <description>Recent content in Posts on Leedle</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 09 Feb 2021 20:40:41 -0500</lastBuildDate><atom:link href="https://varada.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>https://varada.github.io/posts/first/</link>
+      <pubDate>Tue, 09 Feb 2021 20:40:41 -0500</pubDate>
+      
+      <guid>https://varada.github.io/posts/first/</guid>
+      <description>Hey, this is my first post using Hugo. I wanted to move away from Jekyll since I don&amp;rsquo;t particularly care for Ruby.</description>
+    </item>
+    
+    <item>
+      <title>All-Rounder Meguru</title>
+      <link>https://varada.github.io/posts/favorite-manga/</link>
+      <pubDate>Tue, 25 Dec 2018 00:11:31 -0400</pubDate>
+      
+      <guid>https://varada.github.io/posts/favorite-manga/</guid>
+      <description>You may not know this about me, but I&amp;rsquo;m kind of a weeb. Its pretty shameful actually, especially since I look down on weebs, but my stuggles my weebery is not the the point of this post. Since I started reading manga I read a great number from a variety of genres, from shonen to shōjo, senin to horror. Like everyone I slowly compiled a list of manga that I liked.</description>
+    </item>
+    
+  </channel>
+</rss>
