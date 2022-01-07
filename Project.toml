@@ -1,0 +1,6 @@
+[deps]
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+Franklin = "713c75ef-9fc9-4b05-94a9-213340da978e"
+FranklinUtils = "dcd8a645-c81d-482f-af4b-568f72f3e16d"
+Luxor = "ae8d54c2-7ccd-5906-9d76-62fc9837b5bc"
+NodeJS = "2bd173c7-0d6d-553b-b6af-13a54713934c"
