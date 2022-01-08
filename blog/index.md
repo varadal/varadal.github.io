@@ -1,4 +1,4 @@
-@def title="Blog"
+@def title = "Blog"
 
 ~~~
 <h1>Posts</h1>

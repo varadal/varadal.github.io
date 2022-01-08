@@ -38,7 +38,7 @@ Plug in the list of blog posts contained in the `/blog/` folder.
         if isnothing(pubdate)
             return Date(Dates.unix2datetime(stat(surl * ".md").ctime))
         end
-        return Date(pubdate, dateformat"d U Y")
+        return Date(pubdate, dateformat"d u Y")
     end
     sort!(list, by=sorter, rev=true)
 
@@ -57,7 +57,7 @@ Plug in the list of blog posts contained in the `/blog/` folder.
         if isnothing(pubdate)
             date    = "$curyear-$curmonth-$curday"
         else
-            date    = Date(pubdate, dateformat"d U Y")
+            date    = Date(pubdate, dateformat"d u Y")
         end
         write(io, """$date </i></span><a href="$url">$title</a>""")
     end
@@ -76,7 +76,7 @@ function hfun_custom_taglist()::String
         if isnothing(pubdate)
             return Date(Dates.unix2datetime(stat(p * ".md").ctime))
         end
-        return Date(pubdate, dateformat"d U Y")
+        return Date(pubdate, dateformat"d u Y")
     end
     sort!(rpaths, by=sorter, rev=true)
 
@@ -91,7 +91,7 @@ function hfun_custom_taglist()::String
         if isnothing(pubdate)
             date    = "$curyear-$curmonth-$curday"
         else
-            date    = Date(pubdate, dateformat"d U Y")
+            date    = Date(pubdate, dateformat"d u Y")
         end
         # write some appropriate HTML
         write(io, """$date</i></span><a href="$url">$title</a>""")
