@@ -1,5 +1,4 @@
-@def title = "Beans"
-@def tags = ["syntax", "code"]
+@def title = "Leedle"
 
 # @notleedle 
 
