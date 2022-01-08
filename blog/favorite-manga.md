@@ -1,5 +1,5 @@
 @def title = "All-Rounder Meguru"
-@def date = "9 Febuaray 2021"
+@def published = "9 Feb 2021"
 @def tags = ["review"]
 
 I read a lot of manga; most it mediocre. Every once in a while I come across manga that I feel is undervalued and a few years ago I found one, well actually two. All-Rounder Meguru (ARM) and Eden: It's an Endless World! (Eden) - both by Hiroki Endo.
