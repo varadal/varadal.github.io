@@ -2,9 +2,7 @@
 @def published = "17 Jul 2018"
 @def tags = ["rambling"]
 
-~~~
-<h1>First?</h1>
-~~~
+# First?
 
 Hello, this is my first post using Hugo. I wanted to move away from Jekyll since I don't particularly care for Ruby, so I turned to Hugo. (~ Feb 2021)
 
